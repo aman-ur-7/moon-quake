@@ -1,13 +1,13 @@
-import React from "react";
+// import React from "react";
 
-const LoadingPage = () => {
-  return (
-    <div className="spinner">
-      <h1>
-        <span>explisoft</span> TECHNOLOGY
-      </h1>
-    </div>
-  );
-};
+// const LoadingPage = () => {
+//   return (
+//     <div className="spinner">
+//       <h1>
+//         <span>explisoft</span> TECHNOLOGY
+//       </h1>
+//     </div>
+//   );
+// };
 
-export default LoadingPage;
+// export default LoadingPage;
