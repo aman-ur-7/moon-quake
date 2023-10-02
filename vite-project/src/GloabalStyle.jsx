@@ -195,7 +195,6 @@ export const GlobalStyle = createGlobalStyle`
             }
     }
 
-
     .number-counts{
         height: 15vh;
         background: #F1F2F8;
