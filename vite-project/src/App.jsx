@@ -11,4 +11,4 @@ const App = () => {
   return <>{loading == false ? <MainPage /> : <LoadingPage />}</>;
 };
 
-export default App;
+// export default App;
